@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 import About from './pages/About.jsx'
 import Home from './pages/Home.jsx'
 import InfoPays from './pages/InfoPays.jsx'
@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <>
-<BrowserRouter>
+<HashRouter>
   <Routes>
     <Route path="/" element={<Home />} />
     <Route path="/info-pays" element={<InfoPays />} />
@@ -17,7 +17,7 @@ const App = () => {
     <Route path="/info-pays/:cca3" element={<InfoPays />} />
     <Route path="*" element={<Home />} />
   </Routes>
-</BrowserRouter>
+</HashRouter>
     </>
   )
 }
