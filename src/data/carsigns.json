@@ -1,0 +1,1237 @@
+[
+    {
+        "name": "Afghanistan",
+        "carSign": "AFG",
+        "cca3": "AFG"
+    },
+    {
+        "name": "Afrique du Sud",
+        "carSign": "ZA",
+        "cca3": "ZAF"
+    },
+    {
+        "name": "Åland (Îles)",
+        "carSign": "AX",
+        "cca3": "ALA"
+    },
+    {
+        "name": "Albanie",
+        "carSign": "AL",
+        "cca3": "ALB"
+    },
+    {
+        "name": "Algérie",
+        "carSign": "DZ",
+        "cca3": "DZA"
+    },
+    {
+        "name": "Allemagne",
+        "carSign": "D",
+        "cca3": "DEU"
+    },
+    {
+        "name": "Andorre",
+        "carSign": "AND",
+        "cca3": "AND"
+    },
+    {
+        "name": "Angola",
+        "carSign": "ANG",
+        "cca3": "AGO"
+    },
+    {
+        "name": "Anguilla",
+        "carSign": "UK",
+        "cca3": "AIA"
+    },
+    {
+        "name": "Antarctique",
+        "carSign": "AQ",
+        "cca3": "ATA"
+    },
+    {
+        "name": "Antigua-et-Barbuda",
+        "carSign": "AG",
+        "cca3": "ATG"
+    },
+    {
+        "name": "Arabie Saoudite",
+        "carSign": "KSA",
+        "cca3": "SAU"
+    },
+    {
+        "name": "Argentine",
+        "carSign": "RA",
+        "cca3": "ARG"
+    },
+    {
+        "name": "Arménie",
+        "carSign": "AM",
+        "cca3": "ARM"
+    },
+    {
+        "name": "Aruba",
+        "carSign": "NL",
+        "cca3": "ABW"
+    },
+    {
+        "name": "Australie",
+        "carSign": "AUS",
+        "cca3": "AUS"
+    },
+    {
+        "name": "Autriche",
+        "carSign": "A",
+        "cca3": "AUT"
+    },
+    {
+        "name": "Azerbaïdjan",
+        "carSign": "AZ",
+        "cca3": "AZE"
+    },
+    {
+        "name": "Bahamas",
+        "carSign": "BS",
+        "cca3": "BHS"
+    },
+    {
+        "name": "Bahreïn",
+        "carSign": "BRN",
+        "cca3": "BHR"
+    },
+    {
+        "name": "Bangladesh",
+        "carSign": "BD",
+        "cca3": "BGD"
+    },
+    {
+        "name": "Barbade",
+        "carSign": "BDS",
+        "cca3": "BRB"
+    },
+    {
+        "name": "Belgique",
+        "carSign": "B",
+        "cca3": "BEL"
+    },
+    {
+        "name": "Belize",
+        "carSign": "BZ",
+        "cca3": "BLZ"
+    },
+    {
+        "name": "Bénin",
+        "carSign": "DY",
+        "cca3": "BEN"
+    },
+    {
+        "name": "Bermudes",
+        "carSign": "UK",
+        "cca3": "BMU"
+    },
+    {
+        "name": "Bhoutan",
+        "carSign": "BHT",
+        "cca3": "BTN"
+    },
+    {
+        "name": "Biélorussie",
+        "carSign": "BY",
+        "cca3": "BLR"
+    },
+    {
+        "name": "Bolivie",
+        "carSign": "BOL",
+        "cca3": "BOL"
+    },
+    {
+        "name": "Bonaire, Saint-Eustache et Saba",
+        "carSign": "NL",
+        "cca3": "BES"
+    },
+    {
+        "name": "Bosnie-Herzégovine",
+        "carSign": "BIH",
+        "cca3": "BIH"
+    },
+    {
+        "name": "Botswana",
+        "carSign": "RB",
+        "cca3": "BWA"
+    },
+    {
+        "name": "Bouvet (Île)",
+        "carSign": "N",
+        "cca3": "BVT"
+    },
+    {
+        "name": "Brésil",
+        "carSign": "BR",
+        "cca3": "BRA"
+    },
+    {
+        "name": "Brunei",
+        "carSign": "BRU",
+        "cca3": "BRN"
+    },
+    {
+        "name": "Bulgarie",
+        "carSign": "BG",
+        "cca3": "BGR"
+    },
+    {
+        "name": "Burkina Faso",
+        "carSign": "BF",
+        "cca3": "BFA"
+    },
+    {
+        "name": "Burundi",
+        "carSign": "RU",
+        "cca3": "BDI"
+    },
+    {
+        "name": "Caïmans (Îles)",
+        "carSign": "UK",
+        "cca3": "CYM"
+    },
+    {
+        "name": "Cambodge",
+        "carSign": "K",
+        "cca3": "KHM"
+    },
+    {
+        "name": "Cameroun",
+        "carSign": "CAM",
+        "cca3": "CMR"
+    },
+    {
+        "name": "Canada",
+        "carSign": "CDN",
+        "cca3": "CAN"
+    },
+    {
+        "name": "Cap-Vert",
+        "carSign": "CV",
+        "cca3": "CPV"
+    },
+    {
+        "name": "Centrafrique",
+        "carSign": "RCA",
+        "cca3": "CAF"
+    },
+    {
+        "name": "Chili",
+        "carSign": "RCH",
+        "cca3": "CHL"
+    },
+    {
+        "name": "Chine",
+        "carSign": "RC",
+        "cca3": "CHN"
+    },
+    {
+        "name": "Christmas (Île)",
+        "carSign": "AUS",
+        "cca3": "CXR"
+    },
+    {
+        "name": "Chypre",
+        "carSign": "CY",
+        "cca3": "CYP"
+    },
+    {
+        "name": "Cocos (Îles)",
+        "carSign": "AUS",
+        "cca3": "CCK"
+    },
+    {
+        "name": "Colombie",
+        "carSign": "CO",
+        "cca3": "COL"
+    },
+    {
+        "name": "Comores",
+        "carSign": "COM",
+        "cca3": "COM"
+    },
+    {
+        "name": "Congo (Brazzaville)",
+        "carSign": "RCB",
+        "cca3": "COG"
+    },
+    {
+        "name": "Congo (Kinshasa)",
+        "carSign": "CGO",
+        "cca3": "COD"
+    },
+    {
+        "name": "Cook (Îles)",
+        "carSign": "NZ",
+        "cca3": "COK"
+    },
+    {
+        "name": "Corée du Nord",
+        "carSign": "KP",
+        "cca3": "PRK"
+    },
+    {
+        "name": "Corée du Sud",
+        "carSign": "ROK",
+        "cca3": "KOR"
+    },
+    {
+        "name": "Costa Rica",
+        "carSign": "CR",
+        "cca3": "CRI"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "carSign": "CI",
+        "cca3": "CIV"
+    },
+    {
+        "name": "Croatie",
+        "carSign": "HR",
+        "cca3": "HRV"
+    },
+    {
+        "name": "Cuba",
+        "carSign": "C",
+        "cca3": "CUB"
+    },
+    {
+        "name": "Curaçao",
+        "carSign": "NL",
+        "cca3": "CUW"
+    },
+    {
+        "name": "Danemark",
+        "carSign": "DK",
+        "cca3": "DNK"
+    },
+    {
+        "name": "Djibouti",
+        "carSign": "DJI",
+        "cca3": "DJI"
+    },
+    {
+        "name": "Dominique",
+        "carSign": "WD",
+        "cca3": "DMA"
+    },
+    {
+        "name": "Égypte",
+        "carSign": "ET",
+        "cca3": "EGY"
+    },
+    {
+        "name": "Émirats Arabes Unis",
+        "carSign": "UAE",
+        "cca3": "ARE"
+    },
+    {
+        "name": "Équateur",
+        "carSign": "EC",
+        "cca3": "ECU"
+    },
+    {
+        "name": "Érythrée",
+        "carSign": "ER",
+        "cca3": "ERI"
+    },
+    {
+        "name": "Espagne",
+        "carSign": "E",
+        "cca3": "ESP"
+    },
+    {
+        "name": "Estonie",
+        "carSign": "EST",
+        "cca3": "EST"
+    },
+    {
+        "name": "Eswatini",
+        "carSign": "SD",
+        "cca3": "SWZ"
+    },
+    {
+        "name": "États-Unis",
+        "carSign": "USA",
+        "cca3": "USA"
+    },
+    {
+        "name": "Éthiopie",
+        "carSign": "ETH",
+        "cca3": "ETH"
+    },
+    {
+        "name": "Falkland (Îles Malouines)",
+        "carSign": "UK",
+        "cca3": "FLK"
+    },
+    {
+        "name": "Féroé (Îles)",
+        "carSign": "FO",
+        "cca3": "FRO"
+    },
+    {
+        "name": "Fidji",
+        "carSign": "FJI",
+        "cca3": "FJI"
+    },
+    {
+        "name": "Finlande",
+        "carSign": "FIN",
+        "cca3": "FIN"
+    },
+    {
+        "name": "France",
+        "carSign": "F",
+        "cca3": "FRA"
+    },
+    {
+        "name": "Gabon",
+        "carSign": "G",
+        "cca3": "GAB"
+    },
+    {
+        "name": "Gambie",
+        "carSign": "WAG",
+        "cca3": "GMB"
+    },
+    {
+        "name": "Géorgie",
+        "carSign": "GE",
+        "cca3": "GEO"
+    },
+    {
+        "name": "Géorgie du Sud et Sandwich du Sud",
+        "carSign": "UK",
+        "cca3": "SGS"
+    },
+    {
+        "name": "Ghana",
+        "carSign": "GH",
+        "cca3": "GHA"
+    },
+    {
+        "name": "Gibraltar",
+        "carSign": "GBZ",
+        "cca3": "GIB"
+    },
+    {
+        "name": "Grèce",
+        "carSign": "GR",
+        "cca3": "GRC"
+    },
+    {
+        "name": "Grenade",
+        "carSign": "WG",
+        "cca3": "GRD"
+    },
+    {
+        "name": "Groenland",
+        "carSign": "DK",
+        "cca3": "GRL"
+    },
+    {
+        "name": "Guadeloupe",
+        "carSign": "F",
+        "cca3": "GLP"
+    },
+    {
+        "name": "Guam",
+        "carSign": "USA",
+        "cca3": "GUM"
+    },
+    {
+        "name": "Guatemala",
+        "carSign": "GCA",
+        "cca3": "GTM"
+    },
+    {
+        "name": "Guernesey",
+        "carSign": "GBG",
+        "cca3": "GGY"
+    },
+    {
+        "name": "Guinée",
+        "carSign": "RG",
+        "cca3": "GIN"
+    },
+    {
+        "name": "Guinée équatoriale",
+        "carSign": "GQ",
+        "cca3": "GNQ"
+    },
+    {
+        "name": "Guinée-Bissau",
+        "carSign": "GW",
+        "cca3": "GNB"
+    },
+    {
+        "name": "Guyana",
+        "carSign": "GUY",
+        "cca3": "GUY"
+    },
+    {
+        "name": "Guyane française",
+        "carSign": "F",
+        "cca3": "GUF"
+    },
+    {
+        "name": "Haïti",
+        "carSign": "RH",
+        "cca3": "HTI"
+    },
+    {
+        "name": "Heard et MacDonald (Îles)",
+        "carSign": "AUS",
+        "cca3": "HMD"
+    },
+    {
+        "name": "Honduras",
+        "carSign": "HN",
+        "cca3": "HND"
+    },
+    {
+        "name": "Hong Kong",
+        "carSign": "HK",
+        "cca3": "HKG"
+    },
+    {
+        "name": "Hongrie",
+        "carSign": "H",
+        "cca3": "HUN"
+    },
+    {
+        "name": "Île de Man",
+        "carSign": "GBM",
+        "cca3": "IMN"
+    },
+    {
+        "name": "Îles mineures éloignées des États-Unis",
+        "carSign": "USA",
+        "cca3": "UMI"
+    },
+    {
+        "name": "Îles Vierges britanniques",
+        "carSign": "BVI",
+        "cca3": "VGB"
+    },
+    {
+        "name": "Îles Vierges des États-Unis",
+        "carSign": "USA",
+        "cca3": "VIR"
+    },
+    {
+        "name": "Inde",
+        "carSign": "IND",
+        "cca3": "IND"
+    },
+    {
+        "name": "Indonésie",
+        "carSign": "RI",
+        "cca3": "IDN"
+    },
+    {
+        "name": "Iran",
+        "carSign": "IR",
+        "cca3": "IRN"
+    },
+    {
+        "name": "Iraq",
+        "carSign": "IRQ",
+        "cca3": "IRQ"
+    },
+    {
+        "name": "Irlande",
+        "carSign": "IRL",
+        "cca3": "IRL"
+    },
+    {
+        "name": "Islande",
+        "carSign": "IS",
+        "cca3": "ISL"
+    },
+    {
+        "name": "Israël",
+        "carSign": "IL",
+        "cca3": "ISR"
+    },
+    {
+        "name": "Italie",
+        "carSign": "I",
+        "cca3": "ITA"
+    },
+    {
+        "name": "Jamaïque",
+        "carSign": "JA",
+        "cca3": "JAM"
+    },
+    {
+        "name": "Japon",
+        "carSign": "J",
+        "cca3": "JPN"
+    },
+    {
+        "name": "Jersey",
+        "carSign": "GBJ",
+        "cca3": "JEY"
+    },
+    {
+        "name": "Jordanie",
+        "carSign": "HKJ",
+        "cca3": "JOR"
+    },
+    {
+        "name": "Kazakhstan",
+        "carSign": "KZ",
+        "cca3": "KAZ"
+    },
+    {
+        "name": "Kenya",
+        "carSign": "EAK",
+        "cca3": "KEN"
+    },
+    {
+        "name": "Kirghizistan",
+        "carSign": "KS",
+        "cca3": "KGZ"
+    },
+    {
+        "name": "Kiribati",
+        "carSign": "KIR",
+        "cca3": "KIR"
+    },
+    {
+        "name": "Koweït",
+        "carSign": "KWT",
+        "cca3": "KWT"
+    },
+    {
+        "name": "Laos",
+        "carSign": "LAO",
+        "cca3": "LAO"
+    },
+    {
+        "name": "Lesotho",
+        "carSign": "LS",
+        "cca3": "LSO"
+    },
+    {
+        "name": "Lettonie",
+        "carSign": "LV",
+        "cca3": "LVA"
+    },
+    {
+        "name": "Liban",
+        "carSign": "RL",
+        "cca3": "LBN"
+    },
+    {
+        "name": "Libéria",
+        "carSign": "LB",
+        "cca3": "LBR"
+    },
+    {
+        "name": "Libye",
+        "carSign": "LAR",
+        "cca3": "LBY"
+    },
+    {
+        "name": "Liechtenstein",
+        "carSign": "FL",
+        "cca3": "LIE"
+    },
+    {
+        "name": "Lituanie",
+        "carSign": "LT",
+        "cca3": "LTU"
+    },
+    {
+        "name": "Luxembourg",
+        "carSign": "L",
+        "cca3": "LUX"
+    },
+    {
+        "name": "Macao",
+        "carSign": "MO",
+        "cca3": "MAC"
+    },
+    {
+        "name": "Macédoine du Nord",
+        "carSign": "NMK",
+        "cca3": "MKD"
+    },
+    {
+        "name": "Madagascar",
+        "carSign": "RM",
+        "cca3": "MDG"
+    },
+    {
+        "name": "Malaisie",
+        "carSign": "MAL",
+        "cca3": "MYS"
+    },
+    {
+        "name": "Malawi",
+        "carSign": "MW",
+        "cca3": "MWI"
+    },
+    {
+        "name": "Maldives",
+        "carSign": "MV",
+        "cca3": "MDV"
+    },
+    {
+        "name": "Mali",
+        "carSign": "RMM",
+        "cca3": "MLI"
+    },
+    {
+        "name": "Malte",
+        "carSign": "M",
+        "cca3": "MLT"
+    },
+    {
+        "name": "Mariannes du Nord (Îles)",
+        "carSign": "USA",
+        "cca3": "MNP"
+    },
+    {
+        "name": "Maroc",
+        "carSign": "MA",
+        "cca3": "MAR"
+    },
+    {
+        "name": "Marshall (Îles)",
+        "carSign": "MH",
+        "cca3": "MHL"
+    },
+    {
+        "name": "Martinique",
+        "carSign": "F",
+        "cca3": "MTQ"
+    },
+    {
+        "name": "Maurice",
+        "carSign": "MS",
+        "cca3": "MUS"
+    },
+    {
+        "name": "Mauritanie",
+        "carSign": "RIM",
+        "cca3": "MRT"
+    },
+    {
+        "name": "Mayotte",
+        "carSign": "F",
+        "cca3": "MYT"
+    },
+    {
+        "name": "Mexique",
+        "carSign": "MEX",
+        "cca3": "MEX"
+    },
+    {
+        "name": "Micronésie",
+        "carSign": "FSM",
+        "cca3": "FSM"
+    },
+    {
+        "name": "Moldavie",
+        "carSign": "MD",
+        "cca3": "MDA"
+    },
+    {
+        "name": "Monaco",
+        "carSign": "MC",
+        "cca3": "MCO"
+    },
+    {
+        "name": "Mongolie",
+        "carSign": "MGL",
+        "cca3": "MNG"
+    },
+    {
+        "name": "Monténégro",
+        "carSign": "MNE",
+        "cca3": "MNE"
+    },
+    {
+        "name": "Montserrat",
+        "carSign": "UK",
+        "cca3": "MSR"
+    },
+    {
+        "name": "Mozambique",
+        "carSign": "MOC",
+        "cca3": "MOZ"
+    },
+    {
+        "name": "Myanmar",
+        "carSign": "MYA",
+        "cca3": "MMR"
+    },
+    {
+        "name": "Namibie",
+        "carSign": "NAM",
+        "cca3": "NAM"
+    },
+    {
+        "name": "Nauru",
+        "carSign": "NAU",
+        "cca3": "NRU"
+    },
+    {
+        "name": "Népal",
+        "carSign": "NEP",
+        "cca3": "NPL"
+    },
+    {
+        "name": "Nicaragua",
+        "carSign": "NIC",
+        "cca3": "NIC"
+    },
+    {
+        "name": "Niger",
+        "carSign": "RN",
+        "cca3": "NER"
+    },
+    {
+        "name": "Nigéria",
+        "carSign": "WAN",
+        "cca3": "NGA"
+    },
+    {
+        "name": "Niue",
+        "carSign": "NZ",
+        "cca3": "NIU"
+    },
+    {
+        "name": "Norfolk (Île)",
+        "carSign": "AUS",
+        "cca3": "NFK"
+    },
+    {
+        "name": "Norvège",
+        "carSign": "N",
+        "cca3": "NOR"
+    },
+    {
+        "name": "Nouvelle-Calédonie",
+        "carSign": "F",
+        "cca3": "NCL"
+    },
+    {
+        "name": "Nouvelle-Zélande",
+        "carSign": "NZ",
+        "cca3": "NZL"
+    },
+    {
+        "name": "Océan Indien (Territoire britannique)",
+        "carSign": "UK",
+        "cca3": "IOT"
+    },
+    {
+        "name": "Oman",
+        "carSign": "OM",
+        "cca3": "OMN"
+    },
+    {
+        "name": "Ouganda",
+        "carSign": "EAU",
+        "cca3": "UGA"
+    },
+    {
+        "name": "Ouzbékistan",
+        "carSign": "UZ",
+        "cca3": "UZB"
+    },
+    {
+        "name": "Pakistan",
+        "carSign": "PK",
+        "cca3": "PAK"
+    },
+    {
+        "name": "Palaos",
+        "carSign": "PAL",
+        "cca3": "PLW"
+    },
+    {
+        "name": "Palestine",
+        "carSign": "PS",
+        "cca3": "PSE"
+    },
+    {
+        "name": "Panama",
+        "carSign": "PA",
+        "cca3": "PAN"
+    },
+    {
+        "name": "Papouasie-Nouvelle-Guinée",
+        "carSign": "PNG",
+        "cca3": "PNG"
+    },
+    {
+        "name": "Paraguay",
+        "carSign": "PY",
+        "cca3": "PRY"
+    },
+    {
+        "name": "Pays-Bas",
+        "carSign": "NL",
+        "cca3": "NLD"
+    },
+    {
+        "name": "Pérou",
+        "carSign": "PE",
+        "cca3": "PER"
+    },
+    {
+        "name": "Philippines",
+        "carSign": "RP",
+        "cca3": "PHL"
+    },
+    {
+        "name": "Pitcairn",
+        "carSign": "UK",
+        "cca3": "PCN"
+    },
+    {
+        "name": "Pologne",
+        "carSign": "PL",
+        "cca3": "POL"
+    },
+    {
+        "name": "Polynésie française",
+        "carSign": "F",
+        "cca3": "PYF"
+    },
+    {
+        "name": "Porto Rico",
+        "carSign": "USA",
+        "cca3": "PRI"
+    },
+    {
+        "name": "Portugal",
+        "carSign": "P",
+        "cca3": "PRT"
+    },
+    {
+        "name": "Qatar",
+        "carSign": "Q",
+        "cca3": "QAT"
+    },
+    {
+        "name": "Réunion",
+        "carSign": "F",
+        "cca3": "REU"
+    },
+    {
+        "name": "Roumanie",
+        "carSign": "RO",
+        "cca3": "ROU"
+    },
+    {
+        "name": "Royaume-Uni",
+        "carSign": "UK",
+        "cca3": "GBR"
+    },
+    {
+        "name": "Russie",
+        "carSign": "RUS",
+        "cca3": "RUS"
+    },
+    {
+        "name": "Rwanda",
+        "carSign": "RWA",
+        "cca3": "RWA"
+    },
+    {
+        "name": "Sahara occidental",
+        "carSign": "MA",
+        "cca3": "ESH"
+    },
+    {
+        "name": "Saint-Barthélemy",
+        "carSign": "F",
+        "cca3": "BLM"
+    },
+    {
+        "name": "Sainte-Hélène",
+        "carSign": "UK",
+        "cca3": "SHN"
+    },
+    {
+        "name": "Sainte-Lucie",
+        "carSign": "WL",
+        "cca3": "LCA"
+    },
+    {
+        "name": "Saint-Kitts-et-Nevis",
+        "carSign": "KN",
+        "cca3": "KNA"
+    },
+    {
+        "name": "Saint-Marin",
+        "carSign": "RSM",
+        "cca3": "SMR"
+    },
+    {
+        "name": "Saint-Martin (française)",
+        "carSign": "F",
+        "cca3": "MAF"
+    },
+    {
+        "name": "Saint-Martin (néerlandaise)",
+        "carSign": "NL",
+        "cca3": "SXM"
+    },
+    {
+        "name": "Saint-Pierre-et-Miquelon",
+        "carSign": "F",
+        "cca3": "SPM"
+    },
+    {
+        "name": "Saint-Vincent-et-les Grenadines",
+        "carSign": "WV",
+        "cca3": "VCT"
+    },
+    {
+        "name": "Salomon (Îles)",
+        "carSign": "SOL",
+        "cca3": "SLB"
+    },
+    {
+        "name": "Salvador",
+        "carSign": "ES",
+        "cca3": "SLV"
+    },
+    {
+        "name": "Samoa",
+        "carSign": "WS",
+        "cca3": "WSM"
+    },
+    {
+        "name": "Samoa américaines",
+        "carSign": "USA",
+        "cca3": "ASM"
+    },
+    {
+        "name": "Sao Tomé-et-Principe",
+        "carSign": "STP",
+        "cca3": "STP"
+    },
+    {
+        "name": "Sénégal",
+        "carSign": "SN",
+        "cca3": "SEN"
+    },
+    {
+        "name": "Serbie",
+        "carSign": "SRB",
+        "cca3": "SRB"
+    },
+    {
+        "name": "Seychelles",
+        "carSign": "SY",
+        "cca3": "SYC"
+    },
+    {
+        "name": "Sierra Leone",
+        "carSign": "WAL",
+        "cca3": "SLE"
+    },
+    {
+        "name": "Singapour",
+        "carSign": "SGP",
+        "cca3": "SGP"
+    },
+    {
+        "name": "Slovaquie",
+        "carSign": "SK",
+        "cca3": "SVK"
+    },
+    {
+        "name": "Slovénie",
+        "carSign": "SLO",
+        "cca3": "SVN"
+    },
+    {
+        "name": "Somalie",
+        "carSign": "SO",
+        "cca3": "SOM"
+    },
+    {
+        "name": "Soudan",
+        "carSign": "SUD",
+        "cca3": "SDN"
+    },
+    {
+        "name": "Soudan du Sud",
+        "carSign": "SSD",
+        "cca3": "SSD"
+    },
+    {
+        "name": "Sri Lanka",
+        "carSign": "CL",
+        "cca3": "LKA"
+    },
+    {
+        "name": "Suède",
+        "carSign": "S",
+        "cca3": "SWE"
+    },
+    {
+        "name": "Suisse",
+        "carSign": "CH",
+        "cca3": "CHE"
+    },
+    {
+        "name": "Suriname",
+        "carSign": "SME",
+        "cca3": "SUR"
+    },
+    {
+        "name": "Svalbard et Jan Mayen",
+        "carSign": "N",
+        "cca3": "SJM"
+    },
+    {
+        "name": "Syrie",
+        "carSign": "SYR",
+        "cca3": "SYR"
+    },
+    {
+        "name": "Tadjikistan",
+        "carSign": "TJ",
+        "cca3": "TJK"
+    },
+    {
+        "name": "Taïwan",
+        "carSign": "RC",
+        "cca3": "TWN"
+    },
+    {
+        "name": "Tanzanie",
+        "carSign": "EAT",
+        "cca3": "TZA"
+    },
+    {
+        "name": "Tchad",
+        "carSign": "TCH",
+        "cca3": "TCD"
+    },
+    {
+        "name": "Terres australes françaises",
+        "carSign": "F",
+        "cca3": "ATF"
+    },
+    {
+        "name": "Thaïlande",
+        "carSign": "T",
+        "cca3": "THA"
+    },
+    {
+        "name": "Timor-Leste",
+        "carSign": "TL",
+        "cca3": "TLS"
+    },
+    {
+        "name": "Togo",
+        "carSign": "RT",
+        "cca3": "TGO"
+    },
+    {
+        "name": "Tokelau",
+        "carSign": "NZ",
+        "cca3": "TKL"
+    },
+    {
+        "name": "Tonga",
+        "carSign": "TO",
+        "cca3": "TON"
+    },
+    {
+        "name": "Trinité-et-Tobago",
+        "carSign": "TT",
+        "cca3": "TTO"
+    },
+    {
+        "name": "Tunisie",
+        "carSign": "TN",
+        "cca3": "TUN"
+    },
+    {
+        "name": "Turkménistan",
+        "carSign": "TM",
+        "cca3": "TKM"
+    },
+    {
+        "name": "Turks et Caïcos (Îles)",
+        "carSign": "UK",
+        "cca3": "TCA"
+    },
+    {
+        "name": "Turquie",
+        "carSign": "TR",
+        "cca3": "TUR"
+    },
+    {
+        "name": "Tuvalu",
+        "carSign": "TUV",
+        "cca3": "TUV"
+    },
+    {
+        "name": "Ukraine",
+        "carSign": "UA",
+        "cca3": "UKR"
+    },
+    {
+        "name": "Uruguay",
+        "carSign": "ROU",
+        "cca3": "URY"
+    },
+    {
+        "name": "Vanuatu",
+        "carSign": "VU",
+        "cca3": "VUT"
+    },
+    {
+        "name": "Vatican",
+        "carSign": "V",
+        "cca3": "VAT"
+    },
+    {
+        "name": "Venezuela",
+        "carSign": "YV",
+        "cca3": "VEN"
+    },
+    {
+        "name": "Vietnam",
+        "carSign": "VN",
+        "cca3": "VNM"
+    },
+    {
+        "name": "Wallis-et-Futuna",
+        "carSign": "F",
+        "cca3": "WLF"
+    },
+    {
+        "name": "Yémen",
+        "carSign": "YAR",
+        "cca3": "YEM"
+    },
+    {
+        "name": "Zambie",
+        "carSign": "Z",
+        "cca3": "ZMB"
+    },
+    {
+        "name": "Zimbabwe",
+        "carSign": "ZW",
+        "cca3": "ZWE"
+    }
+]

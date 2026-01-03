@@ -1,0 +1,43 @@
+.about {
+    max-width: 500px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.about h2 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #000000;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.about p {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #000000;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1em;
+}
+
+.about button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background: #041976;
+    color: #f8f9fa;;
+    text-align: center;
+    padding: 5px, 2px;
+    gap: 20px;
+}
+
+.about button:hover {
+    background: #f8f9fa;;
+    color: #041976;
+    transform: scale(1.1);
+    transition: all 0.5s ease;
+}

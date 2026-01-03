@@ -1,0 +1,36 @@
+.loading {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999; 
+  width: 100vw;
+  height: 100dvh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white; 
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.drapeau {
+  flex: 0 0 200px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 20px;
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  background-color: rgba(252, 253, 219, 0.5);
+  box-sizing: border-box; 
+}
+
+.drapeau img {
+  aspect-ratio: 2 / 1;
+  width: 150px;
+  height: 90px;
+}
