@@ -70,21 +70,51 @@
 
 pays-du-monde/
 ├─ public/
-│ ├─ countries.geojson # Frontières des pays (Natural Earth)
-│ └─ vite.svg
+│  ├─ countries.geojson
+│  └─ vite.svg
 ├─ src/
-│ ├─ assets/ # Images et ressources
-│ ├─ components/ # Composants UI réutilisables
-│ ├─ data/ # Données locales (JSON)
-│ ├─ hooks/ # Hooks personnalisés (cache API)
-│ ├─ pages/ # Pages principales
-│ ├─ utils/ # Fonctions utilitaires (traduction)
-│ ├─ App.jsx
-│ └─ main.jsx
+│  ├─ assets/
+│  │  ├─ github-logo.png
+│  │  ├─ Google_Maps_Logo.png
+│  │  └─ react.svg
+│  ├─ components/
+│  │  ├─ Filtrage.css
+│  │  ├─ Filtrage.jsx
+│  │  ├─ Footer.css
+│  │  ├─ Footer.jsx
+│  │  ├─ HamburgerMenu.css
+│  │  ├─ HamburgerMenu.jsx
+│  │  ├─ ListPays copy.jsx
+│  │  ├─ ListPays.css
+│  │  ├─ ListPays.jsx
+│  │  ├─ Navigation.css
+│  │  └─ Navigation.jsx
+│  ├─ data/
+│  │  ├─ capitales_fr.json
+│  │  └─ carsigns.json
+│  ├─ hooks/
+│  │  └─ useApiCache.js
+│  ├─ pages/
+│  │  ├─ About.css
+│  │  ├─ About.jsx
+│  │  ├─ Home.css
+│  │  ├─ Home.jsx
+│  │  ├─ InfoPays.css
+│  │  └─ InfoPays.jsx
+│  ├─ utils/
+│  │  └─ traducteur.jsx
+│  ├─ App.css
+│  ├─ App.jsx
+│  ├─ index.css
+│  └─ main.jsx
+├─ .gitignore
+├─ eslint.config.js
 ├─ index.html
+├─ package-lock.json
 ├─ package.json
-├─ vite.config.js
-└─ README.md
+├─ README.md
+└─ vite.config.js
+
 
 
 ---
