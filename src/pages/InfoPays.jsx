@@ -204,11 +204,18 @@ const InfoPays = () => {
         return () => clearTimeout(timer);
     }, []);
     useEffect(() => {
-        fetch('/countries.geojson')
-            .then(res => res.json())
-            .then(setCountriesGeoJSON)
-            .catch(err => console.error('Erreur chargement GeoJSON', err));
-    }, []);
+    // import.meta.env.BASE_URL récupère automatiquement le nom de votre dépôt
+    // défini dans la propriété 'base' de votre fichier vite.config.js
+    const baseUrl = import.meta.env.BASE_URL;
+
+    fetch(`${baseUrl}countries.geojson`)
+        .then(res => {
+            if (!res.ok) throw new Error(`Erreur HTTP: ${res.status}`);
+            return res.json();
+        })
+        .then(setCountriesGeoJSON)
+        .catch(err => console.error('Erreur chargement GeoJSON', err));
+}, []);
     //** Fonctions pour la traductions et corriger les erreurs de l'API */
     // coorection signes de véhicule (exemple pour l'allemagne : API -> DY au lieu de D)
     function CarSignsList() {
