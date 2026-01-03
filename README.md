@@ -67,7 +67,8 @@
 ---
 
 ## 📂 Structure du projet
-
+  
+```
 pays-du-monde/
 ├─ public/
 │  ├─ countries.geojson
@@ -114,6 +115,8 @@ pays-du-monde/
 ├─ package.json
 ├─ README.md
 └─ vite.config.js
+
+```
 
 
 
