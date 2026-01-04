@@ -51,7 +51,7 @@ header {
     text-align: center;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 768px) {
     .desktop-nav {
         display: none;
     }
