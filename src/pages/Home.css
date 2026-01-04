@@ -44,7 +44,7 @@ header {
     flex-wrap: wrap;
     justify-content: center;
     gap: 1rem;
-    padding: 10px;
+    padding: 5px;
     margin: 0 auto;
     max-width: calc((6 * 240px) + (5 * 1rem));
     align-items: center;
